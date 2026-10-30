@@ -1,0 +1,3 @@
+Si el programa dice que no encuentra una fuente, copia aqui cualquier fuente TrueType
+con el nombre  font.ttf  (por ejemplo DejaVuSans.ttf renombrada).
+Debe incluir acentos y la letra ñ.
